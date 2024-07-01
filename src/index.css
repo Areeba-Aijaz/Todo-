@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+}
